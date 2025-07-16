@@ -10,4 +10,4 @@ A simple Python CLI tool to help justice-impacted individuals find local reentry
 ## Sample Resources
 Resources are listed in `resources.csv`. Feel free to add more!
 
-Built with love, purpose, and Python 🐍💥
+Built with love, purpose, and Python
